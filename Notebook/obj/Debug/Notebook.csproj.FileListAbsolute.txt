@@ -1,0 +1,2 @@
+C:\Users\rogot\source\repos\Notebook\Notebook\obj\Debug\Notebook.csprojAssemblyReference.cache
+C:\Users\rogot\source\repos\Notebook\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
